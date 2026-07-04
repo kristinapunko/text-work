@@ -2,6 +2,8 @@
 
 A React interface for managing rooms and beds, built with Vite and Tailwind CSS.
 
+_Note: This project is desktop-only because the provided Figma design included desktop layouts only._
+
 ---
 
 ## Tech Stack
